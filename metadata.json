@@ -1,0 +1,6 @@
+{
+  "name": "Recipe Scaler",
+  "description": "An intuitive recipe scaling calculator to proportionally adjust ingredient quantities for any desired number of servings with decimal precision and unit support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
